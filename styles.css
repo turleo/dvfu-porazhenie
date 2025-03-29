@@ -5,4 +5,8 @@ html {
 img {
   width: 100vw;
   max-width: 600px;
+
+  &#madoka {
+    max-width: 200px;
+  }
 }
