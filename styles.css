@@ -1,12 +1,12 @@
 html {
-  text-align: center;
+    text-align: center;
 }
 
 img {
-  width: 100vw;
-  max-width: 600px;
+    width: 100vw;
+    max-width: 600px;
 
-  &#madoka {
-    max-width: 200px;
-  }
+    &#madoka {
+        max-width: 200px;
+    }
 }
