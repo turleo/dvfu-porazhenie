@@ -1,8 +1,7 @@
 function updateFefuInfo() {
     const currentYear = new Date().getFullYear();
 
-    // https://www.dvfu.ru/about/history/
-    const startYear = new Date(1899, 7, 9);
+    const startYear = new Date(2011, 6, 1);
 
     var fefuAge = (Date.now() - startYear) / 1000 / 60 / 60 / 24 / 365;
 
